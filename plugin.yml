@@ -1,0 +1,21 @@
+name: ACGeneral
+main: me.vaape.acgeneral.ACGeneral
+version: 1.0
+api-version: 1.17
+commands:
+  pl:
+    description: Display info on core plugins
+  plugins:
+    description: Display info on core plugins
+  help:
+    description: Help command
+  fixhealth:
+    description: Sets health to 10 hearts
+  wild:
+    description: Teleports to a random area around spawn
+  wildleaves:
+    description: Gives player Wild Leaves
+  reddit:
+    description: Gives link to reddit
+  suggestion:
+    description: Gives link to suggestion form
